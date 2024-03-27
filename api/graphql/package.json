@@ -34,7 +34,7 @@
     "class-validator": "^0.13.2",
     "fuse.js": "^6.6.2",
     "graphql": "^16.6.0",
-    "graphql-tools": "^8.3.3",
+    "graphql-tools": "^8.3.20",
     "graphql-upload": "^15.0.2",
     "nestjs-stripe": "^1.0.0",
     "reflect-metadata": "^0.1.13",
